@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+  color:#FF8000;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+body {
+  background: #007bff;
+  color:#FF8000;
+  background: linear-gradient(to right, #0062e6, #FF8000;);
+font-family: 'Liu Jian Mao Cao', cursive;
+}
+h1, p{
+font-family: 'Oswald', sans-serif;
+}
+
+.hr{
+	color:#FF8000;
+	font-size: 20px;
+}

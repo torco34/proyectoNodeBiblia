@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "message": " Fundó Apple en 1976 junto con un amigo de la adolescencia, Steve Wozniak, con ayuda del excompañero de Jobs en Atari, Ronald Wayne, en el garaje de su casa. ",
+    "author": "Steven Paul Jobss",
+    "photo": "https://wetoker.com/wp-content/uploads/2019/08/STEVE.jpg"
+  },
+  {
+    "id": 2,
+    "message": " Bill Gates, es un multimillonario magnate empresarial, informático y filántropo3​ estadounidense, cofundador de la empresa de software Microsoft junto con Paul Allen.4​ ",
+    "author": "Bill Gates",
+    "photo": "https://www.euractiv.com/wp-content/uploads/sites/2/2015/11/bill_gates_with_eu_flag.jpeg"
+  },
+  {
+    "id": 3,
+    "message": "Influyó en su concepto de resistencia no violenta. Fue el inspirador de la marcha de la sal, una manifestación a través del país contra los impuestos a los que estaba sujeto este producto.",
+    "author": "Mohandas Karamchand Gandhi",
+    "photo": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/gandhi-770x433.jpeg?6vX9r3yRDJyLfMxt6xqU_leK98tByZBZ"
+  },
+  {
+    "id": 4,
+    "message": "es un empresario estadounidense. Es el fundador y director ejecutivo de Amazon.2​ En 2015 fue el quinto hombre más rico del mundo,",
+    "author": "Jeff Bezos",
+    "photo": "https://image.cnbcfm.com/api/v1/image/105178315-Jeff_Bezos_close_up.jpg?v=1537331999&w=1400&h=950"
+  },
+  {
+    "author": "Nikola Tesla",
+    "photo": "https://img-cdn.hipertextual.com/files/2014/06/Nikola-Tesla.jpg?strip=all&lossy=1&quality=57&resize=740%2C490&ssl=1",
+    "message": "Se le conoce sobre todo por sus numerosas invenciones en el campo del electromagnetismo, desarrolladas a finales del siglo XIX y principios del siglo XX.",
+    "id": 5
+  }
+]
